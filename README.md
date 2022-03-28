@@ -32,9 +32,9 @@ As divs com a class "menu-item", podem ser multiplicadas, você pode por o quant
   
 ```
   <script>
-    createMenuSettingsButton(200); //você pode escolher o número que desejar, recomendo que experimente e teste.
-    // ISSO VAI DEFINIR O HEIGHT DA DIV "menu-itens", fazendo com que caiba mais ou menos a quantidade de categorias que deseja dentro do seu botão.
+    createMenuSettingsButton(200) //
   </script>
 ```
-
+  Você pode escolher o número que desejar, recomendo que experimente e teste.
+  Nos parametros, você coloca o numero que desejar. Isso vai definir o height da div "menu-itens", fazendo com que caiba mais ou menos a quantidade de categorias que deseja dentro do seu botão.
 
